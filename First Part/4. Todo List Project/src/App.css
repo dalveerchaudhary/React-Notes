@@ -1,0 +1,16 @@
+* {
+    margin: auto;
+
+}
+
+.item-container {
+    text-align: left;
+}
+
+.kg-row {
+    margin: 10px 5px;
+}
+
+.button-de {
+    max-width: 80px;
+}
